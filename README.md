@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/P6QBHjY">
   Add me on discord 
-  <img align="left" alt="TheRedRacing's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img alt="TheRedRacing's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 Hi, I'm Maxime Sickenberg, a passionate self-taught frontEnd web developer from Switzerland.
