@@ -9,7 +9,9 @@ Hi, I'm Maxime Sickenberg, a passionate self-taught frontEnd web developer from 
 - 🔭 I am currently studying at "ETML" in Switzerland
 - 🌱 I am currently learning computer science as a developer
 <br/>
+
 **Languages and Tools:**  
+
 <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
