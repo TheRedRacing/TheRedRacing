@@ -3,7 +3,6 @@
 Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerland.<br>
 👨🏽‍🎓  I am currently studying at "ETML" in Switzerland<br>
 👨🏽‍💻 I am currently learning computer science as a developer<br>
-<br>
 
 <a href="https://twitter.com/maxylou555" target="blank">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xtenzq" width="22px" />
