@@ -4,8 +4,8 @@ Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerl
 👨🏽‍🎓  I am currently studying at "ETML" in Switzerland<br>
 👨🏽‍💻 I am currently learning computer science as a developer<br>
 
-**Join me**
-
+<br>
+## Join me
 <a href="https://twitter.com/maxylou555" target="blank">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xtenzq" width="22px" />
 </a>
@@ -15,7 +15,8 @@ Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerl
 <a href="https://instagram.com/makcnma.s" target="blank">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xtenzq" width="22px" />
 </a>
-
+<br>
+<br>
 
 ## ⚡ Technologies  
   
