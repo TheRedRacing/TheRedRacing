@@ -17,9 +17,11 @@ Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerl
 
 <hr>
 <p align="center">
+  
   ![TheRedRacing's github stats](https://github-readme-stats.vercel.app/api?username=TheRedRacing&show_icons=true)
 
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheRedRacing)
+  
 </p>
 <hr>
 
