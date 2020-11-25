@@ -16,10 +16,11 @@ Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerl
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 <hr>
+<p align="center">
+  ![TheRedRacing's github stats](https://github-readme-stats.vercel.app/api?username=TheRedRacing&show_icons=true)
 
-![TheRedRacing's github stats](https://github-readme-stats.vercel.app/api?username=TheRedRacing&show_icons=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheRedRacing)
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheRedRacing)
+</p>
 <hr>
 
 **Join me**
