@@ -24,7 +24,7 @@ Hi, I'm Maxime Sickenberg, a passionate self-taught frontEnd web developer from 
 </a> 
 
 <a href="https://www.instagram.com/makcnma.s/">
-  <img align="left" alt="TheRedRacing's instagram" width="50px" src="" />
+  <img align="left" alt="TheRedRacing's instagram" width="50px" src="https://github.com/LeonardoSchmittK/instagramLogoClone/blob/master/screenshot.png" />
 </a>
 <!--
 **TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
