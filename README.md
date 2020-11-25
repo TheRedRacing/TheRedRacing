@@ -19,11 +19,11 @@ Hi, I'm Maxime Sickenberg, a passionate self-taught frontEnd web developer from 
 
 **Join me**
 
-<a href="https://discord.gg/P6QBHjY">
+<a target="_blank" href="https://discord.gg/P6QBHjY">
   <img align="left" alt="TheRedRacing's Discord" width="50px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a> 
 
-<a href="https://www.instagram.com/makcnma.s/">
+<a target="_blank" href="https://www.instagram.com/makcnma.s/">
   <img align="left" alt="TheRedRacing's instagram" width="50px" src="https://github.com/LeonardoSchmittK/instagramLogoClone/blob/master/screenshot.png" />
 </a>
 <!--
