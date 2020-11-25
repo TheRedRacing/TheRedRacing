@@ -6,6 +6,7 @@ Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerl
 
 <br>
 ## Join me
+
 <a href="https://twitter.com/maxylou555" target="blank">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xtenzq" width="22px" />
 </a>
