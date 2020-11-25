@@ -22,7 +22,7 @@ Hi, I'm Maxime Sickenberg, a passionate self-taught frontEnd web developer from 
   <img align="left" alt="TheRedRacing's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href="https://www.instagram.com/makcnma.s/">
-  <img align="left" alt="TheRedRacing's instagram" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F504332858270875937%2F&psig=AOvVaw3O8IWwEEeyRTkQA2p0zuNG&ust=1606398066503000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIie5qTpne0CFQAAAAAdAAAAABAI" />
+  <img align="left" alt="TheRedRacing's instagram" width="21px" src="" />
 </a>
 <!--
 **TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
