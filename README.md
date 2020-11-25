@@ -3,7 +3,7 @@
 <a href="https://discord.gg/P6QBHjY">
   <img align="left" alt="TheRedRacing's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-
+<br />
 Hi, I'm Maxime Sickenberg, a passionate self-taught frontEnd web developer from Switzerland.
 - 🔭 I am currently studying at "ETML" in Switzerland
 - 🌱 I am currently learning computer science as a developer
