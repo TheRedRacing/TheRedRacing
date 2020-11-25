@@ -1,6 +1,6 @@
 ### Hi there, I'm [TheRedRacing!](https://sickenberg.com) 👋
 
-[Add me on discord! <img alt="TheRedRacing's Discord" width="10px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/P6QBHjY)
+[Add me on discord! <img alt="TheRedRacing's Discord" width="15px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/P6QBHjY)
 
 Hi, I'm Maxime Sickenberg, a passionate self-taught frontEnd web developer from Switzerland.
 - 🔭 I am currently studying at "ETML" in Switzerland
