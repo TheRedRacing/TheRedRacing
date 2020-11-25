@@ -1,8 +1,8 @@
 ### Hi there, I'm [TheRedRacing!](https://sickenberg.com) 👋
 
 Hi, I'm Maxime Sickenberg, a passionate self-taught frontEnd web developer from Switzerland.
-- 👨🏽‍🎓  I am currently studying at "ETML" in Switzerland
-- 👨🏽‍💻 I am currently learning computer science as a developer
+👨🏽‍🎓  I am currently studying at "ETML" in Switzerland
+🏽‍💻 I am currently learning computer science as a developer
 
 **Languages and Tools:**  
 
