@@ -24,8 +24,6 @@ Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerl
 
 **Join me**
 
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/makcnma.s)
-
 <a target="_blank" href="https://discord.gg/P6QBHjY">
   <img align="left" alt="TheRedRacing's Discord" width="50px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a> 
