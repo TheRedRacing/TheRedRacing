@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![TheRedRacing's github stats](https://github-readme-stats.vercel.app/api?username=TheRedRacing)](https://github.com/anuraghazra/github-readme-stats)
+[![TheRedRacing's github stats](https://github-readme-stats.vercel.app/api?username=TheRedRacing&show_icons=true)]
 <!--
 **TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
