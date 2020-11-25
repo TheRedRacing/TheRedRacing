@@ -5,6 +5,7 @@ Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerl
 👨🏽‍💻 I am currently learning computer science as a developer<br>
 
 **Join me**
+
 <a href="https://twitter.com/maxylou555" target="blank">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xtenzq" width="22px" />
 </a>
@@ -47,6 +48,4 @@ Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerl
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheRedRacing)
   
 <hr>
-
-[![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
 <!--**TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
