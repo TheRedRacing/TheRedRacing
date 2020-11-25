@@ -1,7 +1,5 @@
 ### Hi there, I'm [TheRedRacing!](https://sickenberg.com) 👋
 
-[Add me on discord! <img alt="TheRedRacing's Discord" width="14px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/P6QBHjY)
-
 Hi, I'm Maxime Sickenberg, a passionate self-taught frontEnd web developer from Switzerland.
 - 👨🏽‍🎓  I am currently studying at "ETML" in Switzerland
 - 👨🏽‍💻 I am currently learning computer science as a developer
@@ -17,7 +15,8 @@ Hi, I'm Maxime Sickenberg, a passionate self-taught frontEnd web developer from 
 
 ![TheRedRacing's github stats](https://github-readme-stats.vercel.app/api?username=TheRedRacing&show_icons=true)
 
-
+<hr>
+[Add me on discord! <img alt="TheRedRacing's Discord" width="14px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/P6QBHjY)
 <!--
 **TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
