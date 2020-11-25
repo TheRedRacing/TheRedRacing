@@ -4,6 +4,18 @@ Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerl
 👨🏽‍🎓  I am currently studying at "ETML" in Switzerland<br>
 👨🏽‍💻 I am currently learning computer science as a developer<br>
 
+**Join me**
+<a href="https://twitter.com/maxylou555" target="blank">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xtenzq" width="22px" />
+</a>
+<a href="https://www.linkedin.com/in/maxime-sickenberg-035330200/" target="blank">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" />
+</a>
+<a href="https://instagram.com/makcnma.s" target="blank">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xtenzq" width="22px" />
+</a>
+
+
 ## ⚡ Technologies  
   
   ## Front-End
@@ -13,16 +25,13 @@ Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerl
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-  
   ## Back-End
   
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  
   ## Tools
   
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-  
   ## Other
   
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
@@ -39,13 +48,5 @@ Hello, I am Maxime Sickenberg, a passionate frontEnd web developer from Switzerl
   
 <hr>
 
-**Join me**
-
-<a target="_blank" href="https://discord.gg/P6QBHjY">
-  <img align="left" alt="TheRedRacing's Discord" width="50px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a> 
-
-<a target="_blank" href="https://www.instagram.com/makcnma.s/">
-  <img align="left" alt="TheRedRacing's instagram" width="50px" src="https://github.com/LeonardoSchmittK/instagramLogoClone/blob/master/screenshot.png" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
 <!--**TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
