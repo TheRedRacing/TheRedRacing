@@ -2,11 +2,12 @@
 
 ### Hi there, I'm [TheRedRacing!](https://sickenberg.com) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+🎓 Currently studying an apprenticeship in Information Technology specialized in Software Engineering at [**ETML**](https://www.etml.ch/).
+
 ## ❤️ My favorite brands :
 ![TELSA](https://img.shields.io/badge/-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=white) 
 ![Apple](https://img.shields.io/badge/-Apple-999999?style=for-the-badge&logo=Apple&logoColor=white) 
 
-🎓 Currently studying an apprenticeship in Information Technology specialized in Software Engineering at [**ETML**](https://www.etml.ch/).
 ## 📭 Contact Me :
 
 <a href="https://twitter.com/maxylou555" target="blank">
