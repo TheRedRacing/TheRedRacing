@@ -24,21 +24,21 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E7BA15?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1B7FDE?style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-1DDEC1?style=for-the-badge&logo=MySQL&logoColor=white)
-&nbsp; &nbsp;
-<br><br>
+
 ## 📚 Les Framwork que je connais :
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-  ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-  
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+
 <hr>
 
-  ## 𝗦𝘁𝗮𝘁𝘀
+## 𝗦𝘁𝗮𝘁𝘀
   
-  ![TheRedRacing's github stats](https://github-readme-stats.vercel.app/api?username=TheRedRacing&show_icons=true)
+![TheRedRacing's github stats](https://github-readme-stats.vercel.app/api?username=TheRedRacing&show_icons=true)
 
-  ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
   
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheRedRacing)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheRedRacing)
   
 <hr>
 <!--**TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
