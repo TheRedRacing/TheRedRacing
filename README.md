@@ -1,6 +1,6 @@
 ### Hi there, I'm [TheRedRacing!](https://sickenberg.com) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-🎓 Actuellement en troisième année en informatique à [**ETML**](https://www.etml.ch/) (en spécialité développeur 💻).
+🎓 Actuellement en troisième année en informatique à [**ETML**](https://www.etml.ch/) (Développeur 💻).
 
 ## 📭 Me contacter :
 
