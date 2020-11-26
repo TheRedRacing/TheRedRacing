@@ -1,7 +1,7 @@
 <img align="center" src="space-me.gif" width="100%" />
 
 ### Hi there, I'm [TheRedRacing!](https://sickenberg.com) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
+💕 ![TELSA](https://img.shields.io/badge/-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=white)
 
 
 🎓 Currently studying an apprenticeship in Information Technology specialized in Software Engineering at [**ETML**](https://www.etml.ch/).
@@ -25,13 +25,15 @@
 ![HTML](https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E7BA15?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1B7FDE?style=for-the-badge&logo=CSS3&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-1DDEC1?style=for-the-badge&logo=MySQL&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-7377ad?style=for-the-badge&logo=PHP&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-1DDEC1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![C#](https://img.shields.io/badge/-c%20sharp-1d9924?style=for-the-badge&logo=c%20sharp&logoColor=white)
-## 📚 The Framwork that I know :
+## 📚 The Framework that I know :
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Jquery](https://img.shields.io/badge/-Jquery-E7BA15?style=for-the-badge&logo=Jquery&logoColor=white)
+![ChartJS](https://img.shields.io/badge/-ChartJS-E7BA15?style=for-the-badge&logo=ChartJS&logoColor=white)
 
 <hr>
 
@@ -43,4 +45,4 @@
   
 <hr>
 </p>
-<!--**TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->tesla
