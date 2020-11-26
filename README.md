@@ -1,4 +1,4 @@
-<img align="center" src="space.gif" alt="xtenzq" width="100%" />
+<img align="center" src="space-me.gif" width="100%" />
 
 ### Hi there, I'm [TheRedRacing!](https://sickenberg.com) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
