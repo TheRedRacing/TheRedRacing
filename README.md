@@ -1,8 +1,10 @@
 <img align="center" src="space-me.gif" width="100%" />
 
 ### Hi there, I'm [TheRedRacing!](https://sickenberg.com) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-💕 ![TELSA](https://img.shields.io/badge/-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=white)
 
+## ❤️ My favorite brands :
+![TELSA](https://img.shields.io/badge/-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=white) 
+![Apple](https://img.shields.io/badge/-Apple-999999?style=for-the-badge&logo=Apple&logoColor=white) 
 
 🎓 Currently studying an apprenticeship in Information Technology specialized in Software Engineering at [**ETML**](https://www.etml.ch/).
 ## 📭 Contact Me :
@@ -43,6 +45,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheRedRacing)
   
-<hr>
+<h
 </p>
 <!--**TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->tesla
