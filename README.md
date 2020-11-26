@@ -45,6 +45,5 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheRedRacing)
   
-<h
-</p>
-<!--**TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->tesla
+<hr>
+<!--**TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
