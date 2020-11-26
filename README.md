@@ -19,7 +19,6 @@
 
 ## 📚 Les langages que je connais :
   
-![C#](https://img.shields.io/badge/-C#-2C41CB?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E7BA15?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1B7FDE?style=for-the-badge&logo=CSS3&logoColor=white)
