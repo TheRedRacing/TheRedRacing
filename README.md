@@ -29,6 +29,7 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Jquery](https://img.shields.io/badge/-Jquery-E7BA15?style=for-the-badge&logo=Jquery&logoColor=white)
 
 <hr>
 
