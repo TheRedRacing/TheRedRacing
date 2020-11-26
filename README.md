@@ -1,6 +1,8 @@
+![banner space](space.gif)
+
 ### Hi there, I'm [TheRedRacing!](https://sickenberg.com) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-🎓 Currently stidyng information technology in third year specialize at [**ETML**](https://www.etml.ch/).
+🎓 Currently studying an apprenticeship in Information Technology specialized in Software Engineering at [**ETML**](https://www.etml.ch/).
 
 ## 📭 Contact Me :
 
