@@ -2,7 +2,8 @@
 
 ### Hi there, I'm [TheRedRacing!](https://sickenberg.com) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-🎓 Currently studying an apprenticeship in Information Technology specialized in Software Engineering at [**ETML**](https://www.etml.ch/).
+🎓 Currently studying an apprenticeship in Information Technology specialized in Software Engineering at [**ETML**](https://www.etml.ch/).<br>
+🎓 Since January 2021, I have been doing an internship at [**ELITE**](https://www.elitebeds.ch/en/), a bed company. 
 
 ## 📭 Contact Me :
 
