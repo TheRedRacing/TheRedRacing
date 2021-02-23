@@ -1,6 +1,6 @@
-<img align="center" src="space-me.gif" width="100%" />
+<img align="center" src="space-me.gif" width="100%" height="auto" />
 
-### Hi there, I'm [TheRedRacing!](https://sickenberg.com) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="auto" heigth=100px"">
+### Hi there, I'm [TheRedRacing!](https://sickenberg.com) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 🎓 Currently studying an apprenticeship in Information Technology specialized in Software Engineering at [**ETML**](https://www.etml.ch/).
 
