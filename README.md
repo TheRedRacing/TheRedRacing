@@ -5,20 +5,6 @@
 🎓 Currently studying an apprenticeship in Information Technology specialized in Software Engineering at [**ETML**](https://www.etml.ch/).<br>
 🎓 Since January 2021, I have been doing an internship at [**ELITE**](https://www.elitebeds.ch/en/), a bed company. 
 
-## 📭 Contact Me :
-
-<a href="https://twitter.com/maxylou555" target="blank">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xtenzq" width="22px" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/maxime-sickenberg-035330200/" target="blank">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" />
-</a>
-&nbsp;
-<a href="https://instagram.com/makcnma.s" target="blank">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xtenzq" width="22px" />
-</a>
-<br>
 
 ## 📚 The languages that I know :
   
