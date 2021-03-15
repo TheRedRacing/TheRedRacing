@@ -36,7 +36,7 @@
 
 <hr>
 
-![TheRedRacing's github stats](https://github-readme-stats.vercel.app/api?username=TheRedRacing&show_icons=true)
+![TheRedRacing's github stats](https://github-readme-stats.vercel.app/api?username=TheRedRacing&theme=tokyonight&show_icons=true)
 
 <hr>
 
