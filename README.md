@@ -3,16 +3,17 @@
 ### Hi there, I'm [TheRedRacing!](https://sickenberg.com) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 🎓 Currently studying an apprenticeship in Information Technology specialized in Software Engineering at [**ETML**](https://www.etml.ch/).<br>
-🎓 Since January 2021, I have been doing an internship at [**ELITE**](https://www.elitebeds.ch/en/), a bed company. 
-
+🎓 from January to June, I did an internship at [**ELITE**](https://www.elitebeds.ch/en/), a bed company.<br>
+🎓 Now, I'm with [**Solmani**](https://solmani.ch/) until January 2022.
 
 ## 📚 The languages that I know :
   
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-PYTHON-f7c93e?style=for-the-badge&logo=PYTHON&logoColor=white)
 ![C#](https://img.shields.io/badge/-c%20sharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=white)
 ![ASP.NET CORE](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ## 📚 The Framework that I know :
@@ -20,6 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Jquery](https://img.shields.io/badge/-Jquery-0769AD?style=for-the-badge&logo=Jquery&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-f71f0e?style=for-the-badge&logo=Laravel&logoColor=white)
 
 ## The software that I know
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
