@@ -1,10 +1,12 @@
-<img align="center" src="space-me.gif" width="100%" height="auto" />
+### Hi there, I'm [Maxime Sickenberg](https://msickenberg.ch) as TheRedRacing !
 
-### Hi there, I'm [TheRedRacing!](https://sickenberg.com) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+| Location | Date |
+| ----------- | ----------- |
+|🎓 [**ELITE**](https://www.elitebeds.ch/en/) | January 2021 - June 2022|
+|🎓 [**Solmani**](https://solmani.ch/) | September 2021 - June 2022 |
+|🎓 [**ETML**](https://www.etml.ch/) | 2018-2022|
 
-🎓 Currently studying an apprenticeship in Information Technology specialized in Software Engineering at [**ETML**](https://www.etml.ch/).<br>
-🎓 from January to June, I did an internship at [**ELITE**](https://www.elitebeds.ch/en/), a bed company.<br>
-🎓 Now, I'm with [**Solmani**](https://solmani.ch/) until January 2022.
+🎓 On July 1st 2022 I obtained my CFC
 
 ## 📚 The languages that I know :
   
@@ -22,6 +24,8 @@
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Jquery](https://img.shields.io/badge/-Jquery-0769AD?style=for-the-badge&logo=Jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-f71f0e?style=for-the-badge&logo=Laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 
 ## The software that I know
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
@@ -32,11 +36,5 @@
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=VISUAL%20STUDIO%20CODE&logoColor=white)
 <hr>
 
-![TheRedRacing's github stats](https://github-readme-stats.vercel.app/api?username=TheRedRacing&theme=tokyonight&show_icons=true)
-
-<hr>
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheRedRacing)
-  
-<hr>
 <!--**TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
