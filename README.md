@@ -1,6 +1,6 @@
 ### Hi there, I'm [Maxime Sickenberg](https://msickenberg.ch) as TheRedRacing !
 
-| Location | Date |
+| Study | Date |
 | ----------- | ----------- |
 |🎓 [**ELITE**](https://www.elitebeds.ch/en/) | January 2021 - June 2022|
 |🎓 [**Solmani**](https://solmani.ch/) | September 2021 - June 2022 |
