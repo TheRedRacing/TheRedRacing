@@ -4,7 +4,7 @@
 | ----------- | ----------- |
 |🎓 [**ELITE**](https://www.elitebeds.ch/en/) | January 2021 - June 2022|
 |🎓 [**Solmani**](https://solmani.ch/) | September 2021 - June 2022 |
-|🎓 [**ETML**](https://www.etml.ch/) | 2018-2022|
+|🎓 [**ETML**](https://www.etml.ch/) | September 2018 - July 2022|
 
 🎓 On July 1st 2022 I obtained my CFC
 
