@@ -2,7 +2,7 @@
 
 | Study | Date |
 | ----------- | ----------- |
-|🎓 [**ELITE**](https://www.elitebeds.ch/en/) | January 2021 - June 2022|
+|🎓 [**ELITE**](https://www.elitebeds.ch/en/) | January 2021 - June 2021 |
 |🎓 [**Solmani**](https://solmani.ch/) | September 2021 - June 2022 |
 |🎓 [**ETML**](https://www.etml.ch/) | September 2018 - July 2022|
 
@@ -18,6 +18,7 @@
 ![PYTHON](https://img.shields.io/badge/-PYTHON-f7c93e?style=for-the-badge&logo=PYTHON&logoColor=white)
 ![C#](https://img.shields.io/badge/-c%20sharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=white)
 ![ASP.NET CORE](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
 ## 📚 The Framework that I know :
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
