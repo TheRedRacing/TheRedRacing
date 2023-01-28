@@ -31,8 +31,8 @@
 ## The software that I know
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
 ![ADOBE XD](https://img.shields.io/badge/-ADOBE%20XD-FF61F6?style=for-the-badge&logo=ADOBE%20XD&logoColor=white)
-![ADOBE ILLUSTRATOR](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-FF9A00?style=for-the-badge&logo=ADOBE%20XD&logoColor=white)
-![ADOBE PHOTOSHOP](https://img.shields.io/badge/-ADOBE%20PHOTOSHOP-31A8FF?style=for-the-badge&logo=ADOBE%20XD&logoColor=white)
+![ADOBE ILLUSTRATOR](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-FF9A00?style=for-the-badge&logo=ADOBE%20ILLUSTRATOR&logoColor=white)
+![ADOBE PHOTOSHOP](https://img.shields.io/badge/-ADOBE%20PHOTOSHOP-31A8FF?style=for-the-badge&logo=ADOBE%20PHOTOSHOP&logoColor=white)
 ![VISUAL STUDIO](https://img.shields.io/badge/-VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=VISUAL%20STUDIO&logoColor=white)
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=VISUAL%20STUDIO%20CODE&logoColor=white)
 <hr>
