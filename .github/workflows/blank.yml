@@ -28,7 +28,13 @@ jobs:
           user: TheRedRacing
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Paris
+          base_hireable: true
+          config_display: large
+          extras_css: |
+              .track .name { max-width: 200px !important; }
+          optimize: svg
+          experimental_features: --optimize-svg
+          config_timezone: Europe/Zurich
           
           plugin_achievements: yes
           plugin_achievements_display: compact
