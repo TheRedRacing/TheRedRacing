@@ -44,4 +44,4 @@
 <hr>
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
+![Metrics](https://github.com/TheRedRacing/TheRedRacing/blob/main/github-metrics.svg)
