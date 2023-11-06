@@ -1,15 +1,16 @@
-### Hi there, I'm [Maxime Sickenberg](https://msickenberg.ch) as TheRedRacing !
+<h1 align="center">Hi, I'm [Sickenberg Maxime](https://msickenberg.ch) as TheRedRacing</h1>
+<h3 align="center">A software developer passionate by web design and technologies.</h3>
 
-| Study | Date |
-| ----------- | ----------- |
-|🎓 [**ELITE**](https://www.elitebeds.ch/en/) | January 2021 - June 2021 |
-|🎓 [**Solmani**](https://solmani.ch/) | September 2021 - June 2022 |
-|🎓 [**ETML**](https://www.etml.ch/) | September 2018 - July 2022|
+- 🪴 I'm looking for a job
 
-🎓 On July 1st 2022 I obtained my CFC
+- 📧 How to reach me **me@msickenberg.ch**
 
-## 📚 The languages that I know :
-  
+<h3 align="left">Where can you find me ?</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/maxime-sickenberg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maxime-Sickenberg" height="30" width="40" /></a>
+</p>
+<h3 align="left">📚 The languages that I know :</h3>
+
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
@@ -19,7 +20,7 @@
 ![C#](https://img.shields.io/badge/-c%20sharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=white)
 ![ASP.NET CORE](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-## 📚 The Framework that I know :
+<h3 align="left">📚 The Framework that I know : </h3>
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -28,8 +29,11 @@
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 
-## The software that I know
+
+<h3 align="left">The software that I know : </h3>
+
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
+![Wix](https://img.shields.io/badge/-WIX-0C6EFC?style=for-the-badge&logo=WIX&logoColor=white)
 ![ADOBE XD](https://img.shields.io/badge/-ADOBE%20XD-FF61F6?style=for-the-badge&logo=ADOBE%20XD&logoColor=white)
 ![ADOBE ILLUSTRATOR](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-FF9A00?style=for-the-badge&logo=ADOBE%20ILLUSTRATOR&logoColor=white)
 ![ADOBE PHOTOSHOP](https://img.shields.io/badge/-ADOBE%20PHOTOSHOP-31A8FF?style=for-the-badge&logo=ADOBE%20PHOTOSHOP&logoColor=white)
