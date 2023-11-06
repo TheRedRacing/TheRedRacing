@@ -1,9 +1,11 @@
-<h1 align="center">Hi, I'm [Sickenberg Maxime](https://msickenberg.ch) as TheRedRacing</h1>
+<h1 align="center">Hi, I'm Sickenberg Maxime as TheRedRacing</h1>
 <h3 align="center">A software developer passionate by web design and technologies.</h3>
 
 - 🪴 I'm looking for a job
 
 - 📧 How to reach me **me@msickenberg.ch**
+
+- 🌐 My website [msickenberg.ch](https://msickenberg.ch)
 
 <h3 align="left">Where can you find me ?</h3>
 <p align="left">
@@ -41,5 +43,5 @@
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=VISUAL%20STUDIO%20CODE&logoColor=white)
 <hr>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheRedRacing)
-<!--**TheRedRacing/TheRedRacing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://github.com/TheRedRacing/TheRedRacing/blob/main/github-metrics.svg)
