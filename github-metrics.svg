@@ -3002,7 +3002,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.16m out of 80.7m repositories
+                      ranked 5.16m out of 78.5m repositories
                     </span>
                   
                   
@@ -3396,9 +3396,9 @@
       
         <footer>
           
-            <span>These metrics do not include all private contributions</span>
+            <span>These metrics include private contributions</span>
           
-          <span>Last updated 24 Feb 2024, 02:26:40 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 24 Feb 2024, 03:09:36 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
