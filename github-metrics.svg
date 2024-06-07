@@ -1708,27 +1708,27 @@
                 
                   <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2855,7 +2855,7 @@ V2</div>
                   <span class="prefix"></span> Developer
                   
                     <span class="gh">
-                      ranked 8.11m out of 137m users
+                      ranked 8.11m out of 138m users
                     </span>
                   
                   
@@ -2991,7 +2991,7 @@ V2</div>
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 3.84m out of 137m users
+                      ranked 3.84m out of 138m users
                     </span>
                   
                   
@@ -3094,7 +3094,7 @@ V2</div>
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.27m out of 210m repositories
+                      ranked 5.27m out of 199m repositories
                     </span>
                   
                   
@@ -3490,7 +3490,7 @@ V2</div>
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 7 Jun 2024, 01:07:06 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 7 Jun 2024, 02:23:22 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
