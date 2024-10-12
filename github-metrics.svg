@@ -2313,11 +2313,11 @@
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
                     
                     <div class="content">
-                      Opened <span class="issue">#8 Ajouter des lieux aux partenaires</span>
+                      Opened <span class="issue">#5 Historique des promotions activées via un système de points</span>
                     </div>
                   </div>
                   <div class="details">
-                    <div>opened  in <span class="repo">CityDealsSwiss/api</span></div>
+                    <div>opened  in <span class="repo">CityDealsSwiss/client</span></div>
                   </div>
                 
                 
@@ -2343,11 +2343,11 @@
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
                     
                     <div class="content">
-                      Opened <span class="issue">#7 Intégrer l'ajout et la gestion des promotions</span>
+                      Opened <span class="issue">#4 Activation des promotions valable pendant 12h</span>
                     </div>
                   </div>
                   <div class="details">
-                    <div>opened  in <span class="repo">CityDealsSwiss/api</span></div>
+                    <div>opened  in <span class="repo">CityDealsSwiss/client</span></div>
                   </div>
                 
                 
@@ -2373,11 +2373,11 @@
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
                     
                     <div class="content">
-                      Opened <span class="issue">#6 Mettre en place le système d'ajout des partenaires</span>
+                      Opened <span class="issue">#3 Ajout aux favoris</span>
                     </div>
                   </div>
                   <div class="details">
-                    <div>opened  in <span class="repo">CityDealsSwiss/api</span></div>
+                    <div>opened  in <span class="repo">CityDealsSwiss/client</span></div>
                   </div>
                 
                 
@@ -2731,7 +2731,7 @@
                   <span class="prefix"></span> Developer
                   
                     <span class="gh">
-                      ranked 7.71m out of 142m users
+                      ranked 7.71m out of 146m users
                     </span>
                   
                   
@@ -2867,7 +2867,7 @@
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 4.14m out of 142m users
+                      ranked 4.14m out of 146m users
                     </span>
                   
                   
@@ -3003,7 +3003,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.41m out of 215m repositories
+                      ranked 5.41m out of 214m repositories
                     </span>
                   
                   
@@ -3370,7 +3370,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 12 Oct 2024, 16:18:11 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 12 Oct 2024, 17:21:21 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
