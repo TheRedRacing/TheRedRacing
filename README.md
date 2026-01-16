@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Sickenberg Maxime as TheRedRacing</h1>
 <h3 align="center">A software developer passionate by web design and technologies.</h3>
 
-- 🪴 I'm looking for a job
-
 - 📧 How to reach me **me@msickenberg.ch**
 
 - 🌐 My website [msickenberg.ch](https://msickenberg.ch)
